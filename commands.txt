@@ -1,0 +1,6 @@
+configeration:
+to start with git:
+to see git version -> git --version                                  (if no verion download git from browser)
+to see the git config details -> git config --list
+to see the user and his changes made use -> git log
+
