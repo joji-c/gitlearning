@@ -8,3 +8,4 @@ to add or change email -> git config --global user.email "user@gmail.com"
 add file to git repository -> git init
 git_add[adding chnages to SA] -> git add -A 
 git_commit[adding staged files to LR] -> git commit -m "message"
+to check if git is upto date or untracked use -> git status
