@@ -5,6 +5,6 @@ to see the git config details -> git config --list
 to see the user and his changes made use -> git log
 to add or change username -> git config --global user.name "username"
 to add or change email -> git config --global user.email "user@gmail.com" 
-git add file to git repository -> git init
+add file to git repository -> git init
 git_add[adding chnages to SA] -> git add -A 
 git_commit[adding staged files to LR] -> git commit -m "message"
