@@ -13,3 +13,4 @@ get RR details                                           -> git remote -v
 to add a RR                                              -> git remote add name path
 to know on which branch and its details                  -> git branch
 to push from LR to RR                                    -> git push name branch_name
+
