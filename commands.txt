@@ -1,11 +1,11 @@
 configeration:
-to start with git:
-to see git version -> git --version                                  (if no verion download git from browser)
-to see the git config details -> git config --list
-to see the user and his changes made use -> git log
-to add or change username -> git config --global user.name "username"
-to add or change email -> git config --global user.email "user@gmail.com" 
-add file to git repository -> git init
-git_add[adding chnages to SA] -> git add -A 
-git_commit[adding staged files to LR] -> git commit -m "message"
-to check if git is upto date or untracked use -> git status
+to start with git:                                             (if no verion download git from browser)
+to see git version                                       -> git --version                                  
+to see the git config details                            -> git config --list
+to see the user and his changes made use                 -> git log
+to add or change username                                -> git config --global user.name "username"
+to add or change email                                   -> git config --global user.email "user@gmail.com"
+to check if git is upto date or untracked use            -> git status
+add file to git repository                               -> git init
+git_add[adding chnages to SA]                            -> git add -A 
+git_commit[adding staged files to LR]                    -> git commit -m "message"
