@@ -1,5 +1,11 @@
 configeration:
 to start with git:                                       (if no verion download git from browser)
+
+RR  - remote repository
+LWS - local work space
+LR  - local repository
+SA  - staging area
+
 to see git version                                       -> git --version                                  
 to see the git config details                            -> git config --list
 to see the user and his changes made use                 -> git log
@@ -13,4 +19,3 @@ get RR details                                           -> git remote -v
 to add a RR                                              -> git remote add name path
 to know on which branch and its details                  -> git branch
 to push from LR to RR                                    -> git push name branch_name
-
