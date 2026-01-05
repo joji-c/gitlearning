@@ -14,7 +14,7 @@ to add or change email                                   -> git config --global 
 to check if git is upto date or untracked use            -> git status
 add file to git repository                               -> git init
 git_add[adding changes to SA]                            -> git add -A 
-git_commit[adding chanes from SA to LR]                    -> git commit -m "message"
+git_commit[adding changes from SA to LR]                    -> git commit -m "message"
 get RR details                                           -> git remote -v
 to add a RR                                              -> git remote add name path
 to know on which branch and its details                  -> git branch
